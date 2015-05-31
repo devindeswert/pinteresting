@@ -1,4 +1,4 @@
 # One Month Rails
 
 Pinteresting sample application
-[*One Month Rails*]
+[*One Month Rails*]   
